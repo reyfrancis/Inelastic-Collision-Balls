@@ -17,15 +17,8 @@ Project state
 
 Contents
 --------
- * [Basic builtin codes](https://github.com/reyfrancis/Mastering-Python/tree/master/Basic_builtin)
- * [Working with files](https://github.com/reyfrancis/Mastering-Python/tree/master/File_example)
- * [Intermediate builtin codes](https://github.com/reyfrancis/Mastering-Python/tree/master/Intermediate_builtin)
- * [Object-Oriented Programming](https://github.com/reyfrancis/Mastering-Python/tree/master/OOP_lecture_by_Corey_Schafer)
- * [Book notes: Program Arcade Games](https://github.com/reyfrancis/Mastering-Python/tree/master/ProgramArcadeGames_by_Paul_Vincent_Craven)
- * [OpenCV Documentation: (https://docs.opencv.org)](https://github.com/reyfrancis/Mastering-Python/tree/master/OpenCV)
-   * [Image Files](https://github.com/reyfrancis/Mastering-Python/tree/master/OpenCV/Image%20Files)
 
 
 License
 -------
-GNU General Public License v3.0 (see [LICENSE.md](https://github.com/reyfrancis/Mastering-Python/blob/master/LICENSE))
+GNU General Public License v3.0 (see [LICENSE.md](https://github.com/reyfrancis/Inelastic-Collision-Balls/blob/master/LICENSE)

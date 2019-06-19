@@ -20,4 +20,4 @@ Contents
 
 License
 -------
-GNU General Public License v3.0 (see [LICENSE.md](https://github.com/reyfrancis/Inelastic-Collision-Balls/blob/master/LICENSE)
+GNU General Public License v3.0 (see [LICENSE.md](https://github.com/reyfrancis/Inelastic-Collision-Balls/blob/master/LICENSE))

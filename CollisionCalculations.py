@@ -1,3 +1,5 @@
+''' This code shows the math of bouncing circles given by the Momentum Equation and the Coefficient of Restitution '''
+
 import math
 import numpy as np
 

@@ -9,10 +9,7 @@ A simulation written in Python for Inelastic Collision of two point particles ac
 
 Project state
 -------------
-**TODOs:**
-* Fix the bug for the many Circles Collision
-* Check why balls stick when coefficient is less than 1
-* Apply in a game
+Unsupported
 
 Contents
 --------
